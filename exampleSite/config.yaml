@@ -154,12 +154,9 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Python"
+        - "R Script"
+        
 
   # Experience
   experience:
