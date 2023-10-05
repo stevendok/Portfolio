@@ -117,9 +117,9 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
+    intro: "Hi, my name is" # Introduction
+    title: "Steven Doktor." # Change the name
+    subtitle: "Data-driven professional" # What you do
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     bottomImage:
