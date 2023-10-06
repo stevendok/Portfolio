@@ -239,11 +239,11 @@ params:
           Extracurricular Activities
             - Particpated in Varsity football, basketball, and baseball
             - Vice President of Student Government, member of Leadership Club
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Bachelor of Science in Data Science"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "Mercyhurst University"
           url: "https://example.org"
-        date: "2009 - 2013"
+        date: "2023-present"
         GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
