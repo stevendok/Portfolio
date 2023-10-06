@@ -121,7 +121,7 @@ params:
     title: "Steven Doktor." # Change the name
     subtitle: "Data-driven professional" # What you do
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    image: 
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -229,16 +229,16 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: ""
         school:
-          name: "University of California, Berkeley"
+          name: "Akron High School"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2019-2023"
+        GPA: "4.0 out of 4.0"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Particpated in Varsity football, basketball, and baseball
+            - Vice President of Student Government, member of Leadership Club
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Massachusetts Institute of Technology"
